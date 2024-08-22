@@ -54,14 +54,12 @@ Once the theme is installed, you can switch to it by following these steps:
 ## Screenshots
 Here are some screenshots showcasing **Sharpedo**:
 
-### Editor Window
-![Editor Window](./img/Screenshot%202024-08-07%20120310.png)
 
-### Solution Explorer
-![Solution Explorer](./img/Screenshot%202024-08-07%20120029.png)
+### Editor Explorer
+![Editor Explorer](./img/Screenshot%2024-08-22.png)
 
 ### Debugger
-![Debugger](./img/Screenshot%202024-08-07%20120029.png)
+![Debugger](./img/Screenshot%2024-08-22.png)
 
 ## Contributing
 We welcome contributions to improve **Sharpedo**! To contribute, follow these steps:

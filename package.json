@@ -2,6 +2,7 @@
   "name": "sharpedo",
   "displayName": "Sharpedo",
   "description": "Sharpedo Dark and light theme",
+  "icon": "img/logo.png",
   "publisher": "SharpdeoMediaDarkTheme",
   "repository": {
     "type": "git",
@@ -14,10 +15,28 @@
     "Dark Forest",
     "Sharpdeo Theme",
     "Shadow Dark",
-    "Dark"
-
+    "Dark",
+    "Visual Studio Code",
+    "VS Code Theme",
+    "Code Editor",
+    "Dark Mode",
+    "Light Mode",
+    "UI Design",
+    "User Interface",
+    "Syntax Highlighting",
+    "Developer Tools",
+    "Programming",
+    "Coding",
+    "Text Editor",
+    "Productivity",
+    "Customization",
+    "Theme Pack",
+    "IDE",
+    "Coding Theme",
+    "Dark UI",
+    "Modern Design"
   ],
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.92.0"
   },
